@@ -1,6 +1,13 @@
 h1{
+<<<<<<< HEAD
     color: red;
 }
 body{
     background-color: aquamarine;
+=======
+    color: rgb(78, 55, 55);
+}
+body{ 
+    background-color: blue;
+>>>>>>> version2
 }
